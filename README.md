@@ -2,7 +2,25 @@
 
 #### 🎓 ABOUT ME
 
-I'm Darshan Paithankar Pursuing Bachelors Degree in Electronics and Telecommunication. Full Stack Web Developer🚀 and having keen interest in database management.
+I'm Darshan Paithankar Experienced Full Stack Developer with 2+ years of expertise in designing and developing scalable enterprise applications using Java, Spring Boot, Angular, and RESTful APIs. Currently working as a Senior Software Engineer at BNY, delivering high-performance financial solutions with a focus on clean architecture, microservices, and secure coding practices.
+
+Proficient in end-to-end development—from backend system design, integration, and database management to responsive front-end development with Angular. Adept at working in Agile environments, collaborating with cross-functional teams, and driving continuous improvement through CI/CD and DevOps practices.
+
+Core competencies include:
+
+Java 17, Spring Boot, Hibernate, JPA
+
+Angular 18, TypeScript, HTML5, CSS3
+
+REST APIs, Microservices Architecture
+
+SQL,MongoDB
+
+Git, Maven, Docker
+
+Agile/Scrum methodology
+
+Seeking challenging opportunities to contribute to innovative projects and grow into a technical leadership role.
 
 :mailbox: Reach me out!
 
