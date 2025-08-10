@@ -30,7 +30,7 @@ Seeking challenging opportunities to contribute to innovative projects and grow 
 
 <!-- TODO: Add last video link -->
 
-- 💬 I'm Looking for Internship Opportunities ;
+- 💬 I'm Looking for SDE2 Opportunities ;
 
 ##### 💻 TECHNOLOGIES I KNOW
 
